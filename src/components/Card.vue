@@ -10,7 +10,7 @@
 </script>
 
 <template>
-    <div class="{{bg}} p-8 rounded-lg shadow-md">
+    <div :class="`${bg} p-8 rounded-lg shadow-md`">
         <slot>
 
         </slot>
