@@ -4,9 +4,9 @@
 </script>
 
 <template>
-    <section class="py-4">
+    <section class="py-4 px-52">
       <div class="container-xl lg:container m-auto">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 p-4 rounded-lg">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-10 p-4 rounded-lg">
           <Card>
             <h2 class="text-2xl font-bold">For Developers</h2>
             <p class="mt-2 mb-4">
