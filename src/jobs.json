@@ -15,32 +15,32 @@
       }
     },
     {
-      "id": "2",
-      "title": "Front-End Engineer (Vue)",
       "type": "Full-Time",
+      "title": "Senior Vue Developer",
       "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$90K - $100K",
       "location": "Miami, FL",
-      "salary": "$70K - $80K",
       "company": {
         "name": "Veneer Solutions",
         "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
-        "contactEmail": "contact@loremipsum.com",
-        "contactPhone": "555-555-5555"
-      }
+        "contactEmail": "contact@veneersoln.com",
+        "contactPhone": "+1 (193) 661-7161"
+      },
+      "id": "2"
     },
     {
-      "id": "3",
-      "title": "Vue.js Developer",
       "type": "Full-Time",
+      "title": "Mid-Level Vue.js Developer",
       "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
-      "location": "Brooklyn, NY",
       "salary": "$70K - $80K",
+      "location": "Brooklyn, NY",
       "company": {
         "name": "Dolor Cloud",
         "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
         "contactEmail": "contact@dolorsitamet.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "3"
     },
     {
       "id": "4",
@@ -96,6 +96,20 @@
         "contactEmail": "contact@softtech.com",
         "contactPhone": "+1 (193) 763-6511"
       }
+    },
+    {
+      "type": "Internship",
+      "title": "Vue Developer Intern",
+      "description": "Basic knowledge of HTML, CSS, JS and Vue JS 3\nProblem-Solving\nAbility of thinking",
+      "salary": "Under $50K",
+      "location": "LA, California",
+      "company": {
+        "name": "SoftInc. Technologies",
+        "description": "SoftInc Technologies is a software development company based in Kathmandu, Nepal. Established in year 2015, the company specializes in developing software for businesses across the countries in various industries like Banks, Healthcare, Finance, and e-commerce. With time the company grew stronger from 15 employees to over 150 employees.",
+        "contactEmail": "contact@softtech.com",
+        "contactPhone": "+1 (193) 763-6511"
+      },
+      "id": "931e"
     }
   ]
 }
