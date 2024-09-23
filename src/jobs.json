@@ -85,7 +85,7 @@
       }
     },
     {
-      "id": "30f0",
+      "type": "Full-Time",
       "title": "Senior React Developer",
       "description": "Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.\nThorough understanding of React.js and Node.js and their core principles.\nExperience with popular React.js workflows (such as Flux or Redux).\nFamiliarity with newer specifications of EcmaScript.\nExperience with data structure libraries (e.g., Immutable.js).\nKnowledge of isomorphic React is a plus.\nFamiliarity with RESTful APIs.\nKnowledge of modern authorization mechanisms, such as JSON Web Token.\nFamiliarity with modern front-end build pipelines and tools.\nExperience with common front-end development tools such as Babel, Webpack, NPM, etc.\nAbility to understand business requirements and translate them into technical requirements.",
       "salary": "$90K - $100K",
@@ -95,7 +95,8 @@
         "description": "SoftInc Technologies is a software development company based in Kathmandu, Nepal. Established in year 2015, the company specializes in developing software for businesses across the countries in various industries like Banks, Healthcare, Finance, and e-commerce. With time the company grew stronger from 15 employees to over 150 employees.",
         "contactEmail": "contact@softtech.com",
         "contactPhone": "+1 (193) 763-6511"
-      }
+      },
+      "id": "30f0"
     },
     {
       "type": "Internship",
